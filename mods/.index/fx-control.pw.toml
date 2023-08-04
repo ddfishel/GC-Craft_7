@@ -1,0 +1,14 @@
+name = "Fx Control!"
+filename = "fxcontrol-1.18-3.0.10.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "95cb5b74e12ff30732af015ae01ebffaface0919"
+
+[update]
+[update.curseforge]
+file-id = 4510181
+project-id = 313477

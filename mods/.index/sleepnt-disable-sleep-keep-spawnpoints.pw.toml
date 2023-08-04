@@ -1,0 +1,14 @@
+name = "Sleepn't (Disable sleep, keep spawnpoints)"
+filename = "Sleepn't 1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f9053ebce0597ca56f8f1be26cae0a75e515f448"
+
+[update]
+[update.curseforge]
+file-id = 3830657
+project-id = 419092

@@ -1,0 +1,14 @@
+name = "Enhanced Celestials Mobifier Integration"
+filename = "Enhanced_Celestials_Mobifier_Integration-forge-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "22216fdd2f61147e513c66a3d2ee1e86a083299d"
+
+[update]
+[update.curseforge]
+file-id = 3780346
+project-id = 620658

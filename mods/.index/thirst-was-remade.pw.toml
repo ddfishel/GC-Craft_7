@@ -1,0 +1,14 @@
+name = "Thirst Was Remade"
+filename = "ThirstRemade-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/iUheEnjm/versions/irtL8mz0/ThirstRemade-1.0.4.jar"
+hash-format = "sha512"
+hash = "48332d851fb17cc0c156a7ac06792731b59b9616c2ab4b06606ae30113a69ec17316bc2a1b8caa251b0f707bae1678e69c59146d23fa3f669eb9b10c64d0e8c3"
+
+[update]
+[update.modrinth]
+mod-id = "iUheEnjm"
+version = "irtL8mz0"

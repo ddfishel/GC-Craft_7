@@ -1,0 +1,14 @@
+name = "Extended Creative Inventory"
+filename = "extendedcreativeinventory-1.18.2-2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "824654e9f3cabd1ef1f78ed0905554a1008d8cc3"
+
+[update]
+[update.curseforge]
+file-id = 4397638
+project-id = 411224

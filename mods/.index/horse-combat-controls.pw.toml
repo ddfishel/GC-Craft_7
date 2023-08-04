@@ -1,0 +1,14 @@
+name = "Horse Combat Controls"
+filename = "horsecombatcontrols-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "edee7369eaf67b5879b2a9d7d9957e0d03613a27"
+
+[update]
+[update.curseforge]
+file-id = 3841936
+project-id = 476789

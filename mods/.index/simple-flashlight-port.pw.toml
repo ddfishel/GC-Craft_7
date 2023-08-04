@@ -1,0 +1,14 @@
+name = "Simple Flashlight Port"
+filename = "flashLight-2.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "73d1ef23f76046c93aa024134a3f71951868e211"
+
+[update]
+[update.curseforge]
+file-id = 3844311
+project-id = 451109
