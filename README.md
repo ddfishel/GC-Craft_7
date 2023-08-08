@@ -3,7 +3,41 @@
 Моды:
 - [AI-improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) - Мод на улучшение ИИ мобов.
 - [AmbientSound 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) - Мод, добавляющий Эмбиент в игру. **Требуется Creative Core**!
-- 
+- [Bad Mobs](https://www.curseforge.com/minecraft/mc-mods/bad-mobs) - Мод, позволяющий убирать спавн мобов и Энтити.
+- [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display) - Мод, добавляет пинг игрока в сетевой игре.
+- [Better Villages - Forge](https://www.curseforge.com/minecraft/mc-mods/better-village-forge) - Мод, изменяющий деревни и дома самих жителей в разных биомах.
+- [Bigger Stacks](https://www.curseforge.com/minecraft/mc-mods/bigger-stacks) - Мод, позволяющий изменять стаки любых предметов.
+- [Chisels & Bits - For Forge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) - Мод, добавляющий мини блоки (пиксили) многих блоков, для создания своего творения.
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Мод, добавляющий конфигурацию для модов в самой игре.
+- [Controllable (Forge)](https://www.curseforge.com/minecraft/mc-mods/controllable) - Мод, добавляющий возможность играть на геймпаде в игре.
+- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) - Мод, добавляющий труп после смерти.
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Мод, добавляющий много разных механизмов, шестерёнок, свою энергию и многое другое.
+- [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) - Мод, добавляющий возможность крафтить еду из модов "Farmer's Delignt", для мода "Create".
+- [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed) - Мод, добавляющий разные сплавы для мода "Create".
+- [Create: Steam 'n' Rails](https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails) - Мод, доавбляющий много разного для поездов и добавляет монорейлы для мода "Create".
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) - Мод, добавляющий новые слоты для разных предметов.
+- [Day Counter](https://www.curseforge.com/minecraft/mc-mods/day-counter) - Мод, доавбляющий календарь и показывает прошедшие дни в мире.
+- [DisenchantingForge](https://www.curseforge.com/minecraft/mc-mods/disenchantingforge) - Мод, добавляющий дисенчантер для зачарований.
+- [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair) - Мод, добавляющий динамический прицел для игры.
+- [Enchanting Commands](https://www.curseforge.com/minecraft/mc-mods/enchanting-commands) - Мод, добавляющий команду для зачарования ЛЮБОГО предмета или блока.
+- [Enchantment Level Language Patch](https://www.curseforge.com/minecraft/mc-mods/enchantment-level-language-patch) - Мод, поправляющий баг с языком Зачарований.
+- [Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) - Мод, добавляющий разные луны, такие как: Кровавая, синяя (Удача) и Зелённая (Быстрый рост посевов)
+- [Enhanced Celestials Mobifier Integration](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials-mobifier-integration) - Мод аддон, позволяющий менять лута, мобов и энтити в разные фаз лун из мода "Enhanced Celestials".
+- [EnhancedVisuals](https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals) - Мод, добавляющий визуал урона для игрока.
+- [Extended Creative Inventory](https://www.curseforge.com/minecraft/mc-mods/extended-creative-inventory) - Мод, Добавляющий новый таб для креатива.
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Мод, добавляющий разную еду и новые посевы.
+- [First Aid](https://www.curseforge.com/minecraft/mc-mods/first-aid) - Мод, добавляющий новую систему урона и поведения хизней игрока.
+- [Simple Flashlight Port](https://www.curseforge.com/minecraft/mc-mods/simple-flashlight-port) - Мод, добавляющий предмет фонарик.
+- [FTB Backups (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge) - Мод, добавляющий бэкапы для игры.
+- [FTB Chunks (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) - Мод, добавляющий приват чанков для игрока.
+- [FTB Teams (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) - Мод, добавляющий команды для игроков.
+- [FTB Quests (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) - Мод, добавляющий квесты для игры.
+- [FX Control](https://legacy.curseforge.com/minecraft/mc-mods/fx-control) - Мод, добавляющий больше опций для мода "In Control"
+- [Game Menu Remove GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb) - Мод, убирающий кнопци, связанные с фид бэком разработчиков и тд.
+- [Horse Combat Controls](https://www.curseforge.com/minecraft/mc-mods/horse-combat-controls) - Мод, изменяющий поведения лошади во время битв на коне.
+- [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass) - Мод, позволяющий менять, удленять и ускорять время в игре.
+- [Huge Structure Blocks (Fabric & Forge)](https://www.curseforge.com/minecraft/mc-mods/huge-structure-blocks) - Мод, добавляющий больше блоков для строительного блока.
+- [I dont want portal yet](https://www.curseforge.com/minecraft/mc-mods/i-dont-want-portal-yet) - Мод, убирающий порталы в энд и незер.
 - 
 - 
 - 
@@ -21,4 +55,11 @@
 
 Библиотеки:
 - [Creative Core](https://www.curseforge.com/minecraft/mc-mods/creativecore) - Библиотека для "AmbientSound 5".
+- [Architectury API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - Библиотека для модов.
+- [Cloth Config API (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - Библиотека для "Dynamic Crosshair".
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) - Библиотека для "Enchanting Commands", "Starter Kit" и "Extended Creative Inventory".
+- [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Библиотека для "Zombie Awaerness".
+- [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) - Библиотека для "Mr'Crayfish Gun Mods".
+- [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) - Библиотека для "FTB Backups", "FTB Chunks", "FTB Quests" и "FTB Teams".
+- 
 - 
