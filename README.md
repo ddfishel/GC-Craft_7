@@ -10,6 +10,7 @@
 - [Chisels & Bits - For Forge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits) - Мод, добавляющий мини блоки (пиксили) многих блоков, для создания своего творения.
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Мод, добавляющий конфигурацию для модов в самой игре.
 - [Controllable (Forge)](https://www.curseforge.com/minecraft/mc-mods/controllable) - Мод, добавляющий возможность играть на геймпаде в игре.
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Мод, позволяющий удобно назначать клавиши на клавиатуре.
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) - Мод, добавляющий труп после смерти.
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Мод, добавляющий много разных механизмов, шестерёнок, свою энергию и многое другое.
 - [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice) - Мод, добавляющий возможность крафтить еду из модов "Farmer's Delignt", для мода "Create".
@@ -38,6 +39,15 @@
 - [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass) - Мод, позволяющий менять, удленять и ускорять время в игре.
 - [Huge Structure Blocks (Fabric & Forge)](https://www.curseforge.com/minecraft/mc-mods/huge-structure-blocks) - Мод, добавляющий больше блоков для строительного блока.
 - [I dont want portal yet](https://www.curseforge.com/minecraft/mc-mods/i-dont-want-portal-yet) - Мод, убирающий порталы в энд и незер.
+- [In Control](https://www.curseforge.com/minecraft/mc-mods/in-control) - Мод, добавляющий изменение для мобов в луте, спавне и тд.
+- [Item Filter](https://www.curseforge.com/minecraft/mc-mods/item-filters) - Связущее звено для модов FTB.
+- [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Мод, добавляющие инфу про крафты всего и вся.
+- [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Мод, добавляющий инфу про дроп мобов.
+- [Just Zoom (Forge)](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge) - Мод, добавляет зум в игру.
+- [K-Turrets](https://www.curseforge.com/minecraft/mc-mods/k-turrets) - Мод, добавляющий турели в игру.
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - Мод, позволяющий создавать, менять, или удалять рецепты, предметы, блоки и тд.
+- [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) - Аддон к KubeJS.
+- 
 - 
 - 
 - 
@@ -61,5 +71,7 @@
 - [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Библиотека для "Zombie Awaerness".
 - [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) - Библиотека для "Mr'Crayfish Gun Mods".
 - [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) - Библиотека для "FTB Backups", "FTB Chunks", "FTB Quests" и "FTB Teams".
+- [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) - Библиотека для "Just Zoom".
+- [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) - Библиотека для "Create Slice and Dice".
 - 
 - 
